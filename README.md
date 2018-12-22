@@ -1,2 +1,2 @@
 # Clicky
-React Homework
+React guessing game
