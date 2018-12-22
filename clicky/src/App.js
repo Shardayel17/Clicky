@@ -84,6 +84,7 @@ render() {
     id={Card.id}
     key={Card.id}
     image={Card.image}
+    name={Card.name}
     
     
     
